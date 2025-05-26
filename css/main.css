@@ -55,7 +55,7 @@ body {
   color: rgba(255,255,255,1);
   position: absolute;
   top: 0px;
-  left: 10px;
+  left: 15px;
   font-family: Inter;
   font-weight: Regular;
   opacity: 1;
@@ -93,8 +93,8 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 14px;
-  left: 232px;
+  top: 20px;
+  left: 1600px;
   border-top-left-radius: 81px;
   border-top-right-radius: 81px;
   border-bottom-left-radius: 81px;
@@ -106,7 +106,7 @@ body {
   color: rgba(106,202,106,1);
   position: absolute;
   top: 15px;
-  left: 227px;
+  left: 600px;
   font-family: Inter;
   font-weight: Black Italic;
   font-size: 64px;
@@ -157,7 +157,7 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 585px;
+  top: 10px;
   left: 26px;
   overflow: hidden;
 }
@@ -278,15 +278,15 @@ body {
   text-align: left;
 }
 .v6_20 {
-  width: 141px;
-  height: 141px;
+  width: 180px;
+  height: 180px;
   background: url("../images/v6_20.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 177px;
+  top: 20px;
   left: 26px;
   overflow: hidden;
 }
